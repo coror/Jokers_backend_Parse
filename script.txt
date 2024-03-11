@@ -1,0 +1,3 @@
+mongodb-runner start
+parse-server --appId YOUR_APP_ID --clientKey YOUR_CLIENT_KEY --masterKey YOUR_MASTER_KEY --databaseURI mongodb://127.0.0.1/test --cloud ~/Desktop/kucamKodo/cloud/main.js --verbose
+parse-dashboard --dev --appId YOUR_APP_ID --masterKey YOUR_MASTER_KEY --serverURL http://127.0.0.1:1337/parse --appName kucamKodo

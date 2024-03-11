@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "ParseJokers": {
+      "applicationId": "EmT94PHxVHWdOzt9mgvucMSzrDV2orx4Kz9uHC4r"
+    },
+    "_default": {
+      "link": "ParseJokers"
+    }
+  }
+}
